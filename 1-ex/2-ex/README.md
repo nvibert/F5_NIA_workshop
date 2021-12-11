@@ -16,10 +16,12 @@
 ```
 you can also export the keys if you wish.
 
-4. Execute 
+4. Execute
+ 
 ``` git clone https://github.com/f5devcentral/f5-certificate-rotate.git ```
 
-   ![alt text](../../images/terraform0.png)
+  
+    ![alt text](../../images/terraform0.png)
    
 5. Change directory to ```cd f5-certificate-rotate ``` and execute 
 
@@ -29,6 +31,7 @@ you can also export the keys if you wish.
 
    ```terraform apply -auto-approve```
  
+  
    ![alt text](../../images/terraform1.png)
    ![alt text](../../images/terraform2.png)
 
