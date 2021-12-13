@@ -4,7 +4,7 @@
 
  ![alt text](../images/emailclick.png)
 
-2. You eill get a screen as shown below, click on JOIN
+2. You will get a screen as shown below, click on JOIN
 
  ![alt text](../images/click_on_join.png)
 
@@ -12,8 +12,14 @@
 
  ![alt text](../images/click_ondeployment.png)
 
-3. Click on Components TAB & then click on Ubuntu --> Access --> WEB SHELL
-4. At the prompt enter ``` login udf ``` & Password ``` udf ```
+you will see Your Deployment as shown below
+
+ ![alt text](../images/your_deployment.png)
+
+4. Click on Components TAB & then click on Ubuntu --> Access --> WEB SHELL
+
+
+5.  At the prompt enter ``` login udf ``` & Password ``` udf ```
 
  ![alt text](../images/less1-4.png)
 
