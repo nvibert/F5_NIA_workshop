@@ -1,6 +1,9 @@
-# How to Access UDF Blueprint
+# How to Access Join the Course
 
-1. Search for Blueprint ```HashiCorp Vault BIG-IP Cert Management```
+1. From your email you have received click on the link
+
+ ![alt text](../images/emailclick.png)
+
 2. Click on the Start button Once started click Details
 3. Click on Components TAB & then click on Ubuntu --> Access --> WEB SHELL
 4. At the prompt enter ``` login udf ``` & Password ``` udf ```
