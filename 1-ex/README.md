@@ -10,8 +10,8 @@
 4. Click on Components TAB & then click on Ubuntu --> Access --> WEB SHELL
 5. At the prompt enter ``` login udf ``` & Password ``` udf ```
    ![alt text](../images/less1-4.png)
-6. After logging in udf change directory ```cd f5-certificate-rotate```
+6. After logging in udf change directory ```cd f5-terraform-consul-sd-webinare```
 [GoTo Next Exercise-2](2-ex)
 
-[GoBack](../README.md)
+[GoBack](../index.md)
 
