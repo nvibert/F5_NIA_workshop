@@ -1,7 +1,9 @@
 # Setup AWS Access Key & Secret Key
 
 
-1. Click on **Cloud Accounts** tab on the UDF Blue print
+1. From the deployment get the  **Cloud Accounts** as shown below
+   ![alt text](../../images/cloudaccount.png)
+
 
 2. Copy the **API Key** & **API Secret key**
 
@@ -16,14 +18,7 @@
 ```
 you can also export the keys if you wish.
 
-4. Execute
- 
-``` git clone https://github.com/f5devcentral/f5-certificate-rotate.git ```
-
-  
-    ![alt text](../../images/terraform0.png)
-   
-5. Change directory to ```cd f5-certificate-rotate ``` and execute 
+4. Change directory to ```cd f5-terraform-consul-sd-webinar/terraform ``` and execute 
 
    ```terraform init```
 
